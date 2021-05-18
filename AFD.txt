@@ -1,0 +1,6 @@
+FF(A,a) = {B} 
+FF(A,b) = {C} 
+FF(B,a) = {B} 
+FF(B,b) = {D} 
+FF(D,a) = {B} 
+FF(D,b) = {D} 
